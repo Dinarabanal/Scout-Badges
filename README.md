@@ -1,0 +1,2 @@
+# Scout-Badges
+Badges app 
